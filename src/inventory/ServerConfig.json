@@ -1,0 +1,62 @@
+{
+
+"Roller": {
+"BirKahveDaha": "806714019238379560",
+"Destekçi": "806714527176851488",
+"Hayırsever": "806714281831825438",
+"Dracula": "806714704889249802",
+"KahkahaŞelalesi": "806714869990293515",
+"BenÇokŞanslıyım": "806715247830237194",
+"Technopat": "806715401672982568",
+"Emektar": "806715401672982568",
+"YıllıkDost": "806715808491372587",
+"OldiesButGoldies": "806715972198465538",
+"Sadness": "806716099789717524",
+"AreYouSerious": "806716269134086144",
+"LeonardoDaVinci": "806716476752658483",
+"UyanArtıkCimcime": "806716701222895689",
+"AlarmımıKurdum": "812346392273223700",
+"AloSesimGeliyorMu": "812704035038953512",
+"YavaşLanGaçTaneAlıyon": "812704261590745119",
+"ToplantıKatıldı": "824374117837832222",
+"Staff": "813835962420953188"
+},
+
+"yetkilirolleri": {
+
+"YönetimLider": "824620226951774279",
+"AdminLider": "784189783403921420",
+"ModLider": "824616430695088198",
+
+"Yönetim": "824620229090738186",
+"Admin": "816663558553075723",
+"Moderatör": "784189774306476052",
+
+"TestYönetim": "824620222685118465",
+"TestAdmin": "813833632669761556",
+"TestMod": "784189774859599913",
+
+"RegisterRole": "784189787095564359",
+"BanRole": "824369392057319446",
+"JailRole": "809681620139114537",
+"MuteRole": "824615485785112628",
+"KickRole": "824369395571752960",
+"RozetRole": "824637970195152946",
+"TransporterRole": "824615808193921024"
+
+},
+
+"Staff": {
+"Yetkili": ["yetkili rolü", "yetkili rolü"]    
+},
+
+"Renk": {
+"mavi": "#56abdb",
+"kirmizi": "#880b0b",
+"mor": "#6e3daa",
+"yesil": "#3daa45",
+"Ozel1": "#ffc465",
+"Ozel2": "#65e6ff",
+"Ozel3": "#01ff7c"
+}
+}
